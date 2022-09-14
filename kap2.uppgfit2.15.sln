@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kap2.uppgfit2.15", "kap2.uppgfit2.15\kap2.uppgfit2.15.csproj", "{019E3527-67F9-4DFB-A720-F542A625A244}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{019E3527-67F9-4DFB-A720-F542A625A244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{019E3527-67F9-4DFB-A720-F542A625A244}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{019E3527-67F9-4DFB-A720-F542A625A244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{019E3527-67F9-4DFB-A720-F542A625A244}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14084864-B601-4BFA-A056-47288FD8CB6B}
+	EndGlobalSection
+EndGlobal
